@@ -19,8 +19,7 @@ add_user("Alena", get_new_password())
 add_user("Alena", get_new_password())
 
 
-def print_abc(arg):
-    print("abc")
+
 
 
 
